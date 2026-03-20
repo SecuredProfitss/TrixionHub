@@ -1,0 +1,17 @@
+--[[
+         _                   __                
+  __ _  (_)__________  ___  / /  ___  ___  ___ 
+ /  ' \/ / __/ __/ _ \/ _ \/ _ \/ _ \/ _ \/ -_)
+/_/_/_/_/\__/_/  \___/ .__/_//_/\___/_//_/\__/ 
+                    /_/                        
+        Last updated 03/01/26
+    Developed by microphone_15835
+     (c) 2026 [話筒] Trixion Hub
+]]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SecuredProfitss/TrixionHub/refs/heads/main/%E4%B9%99"))()
+
+--[[
+AFK AUTOFARM 
+Place your strategy under this message.
+]]
